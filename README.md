@@ -10,3 +10,6 @@
 - Hilt
 - Room DB
 - ExoPlayer
+
+Debug APK:
+[app-debug.zip](https://github.com/ManuchekhrT/netup-test-task/files/11330700/app-debug.zip)
